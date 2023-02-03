@@ -14,3 +14,7 @@ You can input the link and automatically get the reviews from the location you'r
 In the same folder, you'll find the notebook for the Aspect Based Opinion Mining. It automatically cleans and prepares the text from the Google Reviews, outputting a .json file in the process with all the aspects and their semantics.
 It will further create a dataframe with the count of each aspect. 
 Careful: I combined those aspects even further manually since some topics that occured more often could be counted as e.g. "Customer Service", etc. This needs to be adjusted based on the input data and the location of interested.
+
+#### The Tableau Graphics can be found here:
+https://public.tableau.com/app/profile/philipp8712/viz/Aspects_count_FINAL_PROJECT/Sheet1
+https://public.tableau.com/app/profile/philipp8712/viz/GoogleReviewStars/Sheet14

@@ -1,0 +1,312 @@
+aspect,count_positive,count_negative
+Personal,68,13
+Baumarkt,64,4
+Beratung,53,8
+Mitarbeiter,52,8
+Auswahl,48,2
+Preise,33,1
+Service,26,3
+Sortiment,25,1
+Hornbach,15,2
+Laden,13,0
+Verkäufer,7,4
+Preis,10,1
+Parkplätze,9,2
+Markt,9,2
+Preisen,9,0
+Angebot,5,2
+Handwerker,6,1
+Sprit,6,0
+Tankstelle,6,0
+Mitarbeitern,3,2
+bedient,5,0
+Parkplatz,4,0
+Qualität,4,0
+Tanken,5,0
+Abholung,4,1
+tanken,5,0
+Leute,5,0
+Kundenservice,2,3
+Ware,4,0
+Geschäft,4,0
+Mitarbeiterinnen,4,0
+Kasse,1,1
+Drive,3,1
+Angebote,4,0
+baumarkt,3,0
+Mitarbeiterin,1,2
+DriveIn,3,0
+place,3,0
+Berater,3,0
+beraten,3,0
+Platz,2,1
+Verkäuferin,2,1
+Schrauben,2,0
+Ort,3,0
+Gänge,1,2
+Atmosphäre,3,0
+Wartezeit,1,2
+hornbach,1,1
+Abholservice,3,0
+Blumen,3,0
+Angestellte,2,1
+Material,1,2
+preislich,2,0
+Einkauf,2,0
+Hygiene,2,0
+Waren,2,0
+MitarbeiterSehr,2,0
+Pflanzen,2,0
+Waschanlage,2,0
+Firma,1,0
+sortiert,2,0
+Wartezeiten,0,2
+personal,1,1
+Produkte,2,0
+dort,2,0
+Flohmarkt,1,1
+Werkzeug,2,0
+Anfahrt,0,1
+Parkmöglichkeiten,2,0
+Team,2,0
+abholen,2,0
+Security,0,1
+Lieferung,0,2
+WLAN,1,1
+Gartencenter,0,0
+Hauptzentrale,1,0
+Stab,0,1
+Muttern,0,0
+bastler,1,0
+Mitarbeiterteam,1,0
+Verkäuferinnen,0,1
+Weihnachtsbaum,1,0
+Holzzuschnitt,1,0
+TeamBin,1,0
+Gas station,1,0
+Transporter,0,1
+Spritpreise,1,0
+Gartenpflanzen,1,0
+Bearbeitung,1,0
+Weihnachtsbäume,1,0
+Baugeschäft,1,0
+Modebutique,0,1
+MitarbeiterinnenBaumarkt,1,0
+Emailadresse,0,1
+Rückabwicklung,0,1
+personsl,1,0
+Support,0,1
+ServiceDanke,1,0
+Baunarkt,0,1
+Warenangebot,1,0
+Sortiment Preisgestaltung,1,0
+Gängen,0,1
+Auflagen,1,0
+geliefert,0,1
+Autowäsche,1,0
+AkkuHandschleifer,1,0
+ServiceSehr,1,0
+bad,0,1
+Tierfuter,1,0
+Stimmung,1,0
+HolzBodenabteilung,1,0
+Männerbetreuung,1,0
+Chef,1,0
+Gartenabteilung,1,0
+Ladenvon,0,1
+Arbeit,1,0
+Preise Personal,1,0
+Baumaterialien,1,0
+Beschilderung,0,1
+Gasflasche,0,1
+GoogleHat,0,0
+HandwerkerHerz,1,0
+Central OfficeÜbersetzt,0,0
+Betreuer,1,0
+Abwicklung,0,1
+sonntagsflohmarkt,1,0
+service,1,0
+Click,1,0
+Organisation,1,0
+Fachpersonal,1,0
+angebot,0,1
+PreisLeistungsverhältnisOnline,1,0
+Kassen,0,1
+Sortimente,1,0
+PreisKeine,1,0
+Heimwerker,1,0
+Aufbau,1,0
+Lieferzeiten,1,0
+Hauswirtschaft,1,0
+ausgestattet,1,0
+warten,0,1
+Angebot Qualität,1,0
+Preis Garantie,1,0
+Filia,1,0
+OnlineHandel,0,1
+Preisebei,1,0
+mahn,0,1
+Dach Fenster,0,0
+pets feed,1,0
+Vertriebsmitarbeiter,1,0
+hardwareÜbersetzt,1,0
+Beraterin,1,0
+ware,1,0
+warenaname,1,0
+Abteilung,1,0
+Limoservice,0,1
+Warenpräsentation,0,1
+Dekoartikel,0,1
+Halle,0,1
+Vorhänge,0,1
+AuswahlInsgesamt,1,0
+PlatzOriginalität,1,0
+Öffnungszeiten,1,0
+Preis Service,1,0
+Beratungaber Verkäufer,0,1
+Parken,0,1
+Schampel,1,0
+Empfang,1,0
+Shop,1,0
+Benzinpreis,1,0
+Kassen Personal,0,1
+HornbachUmfangreichstes Sortiment,1,0
+geschäft,1,0
+bauzubehör,1,0
+Drive in,1,0
+Spritze,1,0
+Fachberater,0,1
+beratung,1,0
+Personalda,1,0
+Brennholz,1,0
+Umgebung,1,0
+Buchenholz,0,1
+Imbiss,1,0
+material,0,1
+Zahlungssystem,0,1
+SortimentGroßes,1,0
+Bedienungsanleitung,0,1
+Curry,1,0
+möbelöl,1,0
+Preisen Personal,1,0
+BaumarktNur,1,0
+Angestellten,1,0
+Sortiment Preise,1,0
+Kundenfreundlich,1,0
+Tanke,1,0
+Essen Bedienung,1,0
+PersonalHier,1,0
+BaumarktEs,1,0
+Verkäufern,0,1
+Drivein Bereich,1,0
+Deko,1,0
+PreisLeistungsverhältnis,1,0
+Bestpreisgarantie,0,1
+Etikett,0,1
+Auswahlman,1,0
+Gartenbereich,1,0
+Maschinisten,1,0
+Waschstraße,1,0
+getankt,1,0
+Garten,1,0
+Markt Personal,1,0
+sachen,1,0
+Gelände,1,0
+In,1,0
+Kraftstoff,1,0
+Zentrale,0,1
+benzin,0,1
+Diesel,0,1
+Benzin,1,0
+Corona,0,1
+PersonalGehe,1,0
+Menschen,1,0
+Haus,1,0
+Öl,0,0
+Hornbachs,0,1
+SortimentFaire Preise,1,0
+Angebot Personal,1,0
+Werkzeuge,1,0
+Mitarbeiterhelfen,1,0
+Personals,0,1
+Arbeitgeber,1,0
+baustoffe,1,0
+Mitarbeiter marktleitung,1,0
+Parkett,0,1
+Fliesen,1,0
+LaminatBeratung,1,0
+Baumärkten,1,0
+Steckmuffen,0,1
+Küchen,0,0
+Personalhat,1,0
+Preise Ware,0,1
+Gartenmöbel,0,1
+BaumarktAbsolut,1,0
+Essen,1,0
+GartenInteressante PreiseBesonders,1,0
+Vorortsortiment,1,0
+Produktauswahl,1,0
+Essen Essen,0,1
+Salat,0,1
+Handwerksbedarf,1,0
+High Light,0,1
+Weihnachtsdekoration,1,0
+Christbäume,0,1
+AtmosphäreAuswahl,0,1
+Einrichtung,1,0
+App,1,0
+Umtausch,1,0
+Orientierungssystem,0,1
+größe,1,0
+PersonalIst,1,0
+Test,1,0
+nett,1,0
+Eintritt,0,1
+Waschbahn,1,0
+Fachgeschäft,1,0
+Drivein,1,0
+corona,0,1
+Atmosphäre Parkplätze,1,0
+PflanzenWir,1,0
+Wohnung,0,0
+Verkaufsberater,0,1
+Coronaregeln,1,0
+Küchenabteilung,1,0
+Hilfe,1,0
+Mitarbeiterhilfe,1,0
+MitarbeiterAnsonsten,0,1
+Lagerhaltung,0,1
+Paketverfolgung,0,1
+laden,1,0
+Toilette,1,0
+GartenBaumarkt,1,0
+Halsbändern,0,1
+Currywurst,1,0
+Einkaufen,1,0
+Kollegen,1,0
+Preise Mitarbeiter,1,0
+Drive In,1,0
+Click Collect,1,0
+Sanitärabteilungdanke,1,0
+Verpackungsservice,0,1
+Transportunternehmen,0,1
+Baumärkte,1,0
+Heizung,1,0
+Tür Treppe Fenster Parkettboden,1,0
+Bad,1,0
+Stufenplatten,0,1
+Aquaristik,0,1
+Produkten,1,0
+MitarbeiterPositiv,1,0
+angestellter,1,0
+Gasgrill,0,0
+Zoo,1,0
+Regeln,0,1
+Ladesäule,1,0
+Einkaufsklima,1,0
+Aquarien,1,0
+Preise Qualität,1,0
+Bauhaus,0,1
+BeratungVorallem,1,0
+Bedienung,0,1
+Zuhause,1,0

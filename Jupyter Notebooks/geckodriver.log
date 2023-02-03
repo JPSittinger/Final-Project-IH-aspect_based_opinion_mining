@@ -1,0 +1,93 @@
+1675025773477	geckodriver	INFO	Listening on 127.0.0.1:50333
+1675025776545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50334" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\a\\AppData\\Local\\Temp\\rust_mozprofileEhOYg8"
+1675025776916	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675025776922	Marionette	INFO	Listening on port 50346
+Read port: 50346
+WebDriver BiDi listening on ws://127.0.0.1:50334
+1675025777104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\a\\AppData\\Local\\Temp\\rust_mozprofileEhOYg8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50334/devtools/browser/16a66871-b1a5-4c25-930b-f256677fc1c7
+1675028912157	Marionette	INFO	Stopped listening on port 50346
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\a\\AppData\\Local\\Temp\\rust_mozprofilepKX2OO"
+1675025960949	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675025960954	Marionette	INFO	Listening on port 50430
+Read port: 50430
+WebDriver BiDi listening on ws://127.0.0.1:50422
+1675025961126	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\a\\AppData\\Local\\Temp\\rust_mozprofilepKX2OO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50422/devtools/browser/f35e29ff-cbda-4485-980a-3a5113db1767
+1675028911907	Marionette	INFO	Stopped listening on port 50430
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\a\\AppData\\Local\\Temp\\rust_mozprofilegIZXOq"
+1675026268439	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675026268446	Marionette	INFO	Listening on port 50634
+Read port: 50634
+WebDriver BiDi listening on ws://127.0.0.1:50625
+1675026268620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\a\\AppData\\Local\\Temp\\rust_mozprofilegIZXOq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50625/devtools/browser/51e2e4af-2932-4c29-9251-62edc144a534
+[GFX1-]: The compositor window received an input event even though it's disabled. There is likely malfunctioning software on the user's machine.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675026693184	Marionette	INFO	Stopped listening on port 50634
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ozprofile24y2Kj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50717/devtools/browser/32161d6d-6045-4317-b75d-0a521b349a4d
+1675028911369	Marionette	INFO	Stopped listening on port 50726
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\a\\AppData\\Local\\Temp\\rust_mozprofileYKwys6"
+1675026409774	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675026409781	Marionette	INFO	Listening on port 50835
+Read port: 50835
+WebDriver BiDi listening on ws://127.0.0.1:50826
+1675026409962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\a\\AppData\\Local\\Temp\\rust_mozprofileYKwys6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50826/devtools/browser/84a98616-04ff-4573-95c9-4f3c05414643
+1675028910576	Marionette	INFO	Stopped listening on port 50835
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\a\\AppData\\Local\\Temp\\rust_mozprofileRggPwU"
+1675026429683	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675026429689	Marionette	INFO	Listening on port 50894
+Read port: 50894
+WebDriver BiDi listening on ws://127.0.0.1:50885
+1675026429863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\a\\AppData\\Local\\Temp\\rust_mozprofileRggPwU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50885/devtools/browser/37f1ff3b-441f-420d-88b1-0efec87ac458
+[GFX1-]: The compositor window received an input event even though it's disabled. There is likely malfunctioning software on the user's machine.
+1675028908374	Marionette	INFO	Stopped listening on port 50894
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+nette enabled
+Dynamically enable window occlusion 0
+1675026617618	Marionette	INFO	Listening on port 51069
+Read port: 51069
+WebDriver BiDi listening on ws://127.0.0.1:51059
+1675026617784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\a\\AppData\\Local\\Temp\\rust_mozprofiled41g9z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51059/devtools/browser/f7ada51f-9210-4f54-a676-9a9b1c8b8d67
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1006714309%3A1675026697847574&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dhornbach%2Bbaumarkt%2Bbornheim%26rlz%3D1C1GCEA_enDE869DE874%26oq%3Dhornbach%2Bbaumarkt%2Bbornheim%26aqs%3Dchrome.0.35i39j46i175i199i512j0i22i30l7.3405j0j7%26sourceid%3Dchrome%26ie%3DUTF-8&gae=cb-none&hl=de&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHd3VgkOZBDQ8KkXmiI1zXUu_uB2JYADZYFaT4n0qFyWddC4Bu9eueEng2z5Or19-UIgbWXB5w line 323 > injectedScript line 2 > eval line 6708 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S1006714309%3A1675026697847574&continue=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dhornbach%2Bbaumarkt%2Bbornheim%26rlz%3D1C1GCEA_enDE869DE874%26oq%3Dhornbach%2Bbaumarkt%2Bbornheim%26aqs%3Dchrome.0.35i39j46i175i199i512j0i22i30l7.3405j0j7%26sourceid%3Dchrome%26ie%3DUTF-8&flowEntry=ServiceLogin&flowName=GlifWebSignIn&gae=cb-none&hl=de&ifkv=AWnogHdmtIDHavccT55Bze7zlCpKacqf1nPZDpKBEcwyoCYjE8AGWKxDSUVfF30NPQQbNRRVpccBxQ line 323 > injectedScript line 2 > eval line 88 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1675028894942	Marionette	INFO	Stopped listening on port 51069
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

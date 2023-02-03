@@ -1,0 +1,263 @@
+aspect,count_positive,count_negative
+Customer Service,235,53
+Market,114,11
+Product Line,94,5
+Price,54,2
+Gas station,26,0
+Parking,15,2
+Handwerker,6,1
+Leute,5,0
+Ware,4,0
+Abholung,4,1
+Abholservice,3,0
+Drive,3,1
+Blumen,3,0
+Ort,3,0
+DriveIn,3,0
+place,3,0
+sortiert,2,0
+Schrauben,2,0
+Einkauf,2,0
+MitarbeiterSehr,2,0
+dort,2,0
+Hygiene,2,0
+Pflanzen,2,0
+Waschanlage,2,0
+abholen,2,0
+Preise Qualität,1,0
+PreisKeine,1,0
+PreisLeistungsverhältnis,1,0
+PreisLeistungsverhältnisOnline,1,0
+Preise Mitarbeiter,1,0
+Preise Personal,1,0
+Menschen,1,0
+Preisebei,1,0
+Preisen Personal,1,0
+Preis Garantie,1,0
+Küchenabteilung,1,0
+Kundenfreundlich,1,0
+Produktauswahl,1,0
+Sanitärabteilungdanke,1,0
+Schampel,1,0
+Preis Service,1,0
+LaminatBeratung,1,0
+Ladesäule,1,0
+PlatzOriginalität,1,0
+MitarbeiterPositiv,1,0
+Material,1,2
+Mitarbeiterhelfen,1,0
+Mitarbeiterhilfe,1,0
+MitarbeiterinnenBaumarkt,1,0
+Mitarbeiterteam,1,0
+Männerbetreuung,1,0
+Organisation,1,0
+Maschinisten,1,0
+Lieferzeiten,1,0
+ServiceDanke,1,0
+PersonalHier,1,0
+PersonalIst,1,0
+Personalda,1,0
+Personalhat,1,0
+Mitarbeiter marktleitung,1,0
+PflanzenWir,1,0
+PersonalGehe,1,0
+Sortiment Preise,1,0
+ServiceSehr,1,0
+hornbach,1,1
+angestellter,1,0
+ausgestattet,1,0
+bastler,1,0
+baustoffe,1,0
+bauzubehör,1,0
+beratung,1,0
+geschäft,1,0
+getankt,1,0
+größe,1,0
+hardwareÜbersetzt,1,0
+laden,1,0
+Zoo,1,0
+möbelöl,1,0
+nett,1,0
+personsl,1,0
+pets feed,1,0
+sachen,1,0
+service,1,0
+sonntagsflohmarkt,1,0
+ware,1,0
+warenaname,1,0
+Öffnungszeiten,1,0
+Zuhause,1,0
+Werkzeuge,1,0
+Shop,1,0
+Toilette,1,0
+Kasse,1,1
+Sortiment Preisgestaltung,1,0
+SortimentFaire Preise,1,0
+SortimentGroßes,1,0
+Sortimente,1,0
+Spritze,1,0
+Stimmung,1,0
+TeamBin,1,0
+Test,1,0
+Tierfuter,1,0
+Tür Treppe Fenster Parkettboden,1,0
+Weihnachtsdekoration,1,0
+Umgebung,1,0
+Umtausch,1,0
+Vertriebsmitarbeiter,1,0
+Vorortsortiment,1,0
+WLAN,1,1
+Warenangebot,1,0
+Waschbahn,1,0
+Waschstraße,1,0
+Weihnachtsbaum,1,0
+Weihnachtsbäume,1,0
+Kollegen,1,0
+Markt Personal,1,0
+In,1,0
+Gartenbereich,1,0
+Baumärkte,1,0
+Einrichtung,1,0
+Baumaterialien,1,0
+BaumarktNur,1,0
+Empfang,1,0
+Essen,1,0
+Essen Bedienung,1,0
+BaumarktEs,1,0
+BaumarktAbsolut,1,0
+Fachgeschäft,1,0
+Fachpersonal,1,0
+Filia,1,0
+Firma,1,0
+Flohmarkt,1,1
+Garten,1,0
+GartenBaumarkt,1,0
+GartenInteressante PreiseBesonders,1,0
+Baumärkten,1,0
+Einkaufsklima,1,0
+Einkaufen,1,0
+Benzin,1,0
+Betreuer,1,0
+Chef,1,0
+BeratungVorallem,1,0
+Beraterin,1,0
+Click,1,0
+Click Collect,1,0
+Benzinpreis,1,0
+Coronaregeln,1,0
+Drivein Bereich,1,0
+Bearbeitung,1,0
+Curry,1,0
+Currywurst,1,0
+Deko,1,0
+Drive In,1,0
+Drive in,1,0
+Drivein,1,0
+Gartenabteilung,1,0
+Fliesen,1,0
+Baugeschäft,1,0
+HandwerkerHerz,1,0
+Handwerksbedarf,1,0
+Hauptzentrale,1,0
+Haus,1,0
+Hauswirtschaft,1,0
+Heimwerker,1,0
+Heizung,1,0
+App,1,0
+Angestellten,1,0
+Angebot Qualität,1,0
+Hilfe,1,0
+HolzBodenabteilung,1,0
+Angebot Personal,1,0
+Holzzuschnitt,1,0
+HornbachUmfangreichstes Sortiment,1,0
+AkkuHandschleifer,1,0
+Imbiss,1,0
+Abteilung,1,0
+Aquarien,1,0
+Brennholz,1,0
+Auflagen,1,0
+Gelände,1,0
+Aufbau,1,0
+Autowäsche,1,0
+Gartenpflanzen,1,0
+Atmosphäre Parkplätze,1,0
+Bad,1,0
+Arbeitgeber,1,0
+Arbeit,1,0
+Auswahlman,1,0
+Bestpreisgarantie,0,1
+Beschilderung,0,1
+Beratungaber Verkäufer,0,1
+benzin,0,1
+Warenpräsentation,0,1
+Abwicklung,0,1
+geliefert,0,1
+Anfahrt,0,1
+Vorhänge,0,1
+angebot,0,1
+Bedienungsanleitung,0,1
+Bedienung,0,1
+Aquaristik,0,1
+Bauhaus,0,1
+Wohnung,0,0
+AtmosphäreAuswahl,0,1
+Zahlungssystem,0,1
+Zentrale,0,1
+mahn,0,1
+bad,0,1
+corona,0,1
+material,0,1
+Baunarkt,0,1
+Dekoartikel,0,1
+Verkäuferinnen,0,1
+Gängen,0,1
+Parkett,0,1
+Parken,0,1
+Paketverfolgung,0,1
+Orientierungssystem,0,1
+Gasflasche,0,1
+OnlineHandel,0,1
+Gasgrill,0,0
+Muttern,0,0
+Modebutique,0,1
+GoogleHat,0,0
+Halle,0,1
+Gartencenter,0,0
+Halsbändern,0,1
+MitarbeiterAnsonsten,0,1
+Limoservice,0,1
+High Light,0,1
+Lieferung,0,2
+Lagerhaltung,0,1
+Ladenvon,0,1
+Küchen,0,0
+Hornbachs,0,1
+Kassen Personal,0,1
+Gartenmöbel,0,1
+Personals,0,1
+Verkaufsberater,0,1
+Dach Fenster,0,0
+Buchenholz,0,1
+Central OfficeÜbersetzt,0,0
+Transportunternehmen,0,1
+Transporter,0,1
+Christbäume,0,1
+Corona,0,1
+Support,0,1
+Stufenplatten,0,1
+Steckmuffen,0,1
+Stab,0,1
+Kassen,0,1
+Fachberater,0,1
+Diesel,0,1
+Security,0,1
+Salat,0,1
+Rückabwicklung,0,1
+Regeln,0,1
+Eintritt,0,1
+Emailadresse,0,1
+Preise Ware,0,1
+Essen Essen,0,1
+Etikett,0,1
+Öl,0,0
